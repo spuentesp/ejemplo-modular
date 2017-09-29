@@ -1,1 +1,1 @@
-import { WikiModule } from './src/app/wiki/wiki.module';
+export * from './src/app/wiki/wiki.module';
