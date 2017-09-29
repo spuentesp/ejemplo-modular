@@ -1,0 +1,131 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+/test-header/tmp
+/test-header/out-tsc
+
+# dependencies
+/test-header/node_modules
+
+# IDEs and editors
+/test-header/.idea
+/test-header/.project
+/test-header/.classpath
+.c9/
+/test-header/*.launch
+/test-header/.settings/
+/test-header/*.sublime-workspace
+
+# e2e
+/test-header/e2e/*.js
+/test-header/e2e/*.map
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# misc
+/test-header/.sass-cache
+/test-header/connect.lock
+/test-header/coverage
+/test-header/libpeerconnection.log
+/test-headernpm-debug.log
+/test-headertestem.log
+/test-header/typings
+
+
+
+# System Files
+/test-header/.DS_Store
+/test-header/Thumbs.db
+
+# layout
+
+# compiled output
+/test-layout/tmp
+/test-layout/out-tsc
+
+# dependencies
+/test-layout/node_modules
+
+# IDEs and editors
+/test-layout/.idea
+/test-layout/.project
+/test-layout/.classpath
+.c9/
+/test-layout/*.launch
+/test-layout/.settings/
+/test-layout/*.sublime-workspace
+
+# e2e
+/test-layout/e2e/*.js
+/test-layout/e2e/*.map
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# misc
+/test-layout/.sass-cache
+/test-layout/connect.lock
+/test-layout/coverage
+/test-layout/libpeerconnection.log
+/test-layout/npm-debug.log
+/test-layouttestem.log
+/test-layout/typings
+
+
+
+# System Files
+/test-header/.DS_Store
+/test-header/Thumbs.db
+
+#section1
+
+# compiled output
+/test-section1/tmp
+/test-section1/out-tsc
+
+# dependencies
+/test-section1/node_modules
+
+# IDEs and editors
+/test-section1/.idea
+/test-section1/.project
+/test-section1/.classpath
+.c9/
+/test-section1/*.launch
+/test-section1/.settings/
+/test-section1/*.sublime-workspace
+
+# e2e
+/test-section1/e2e/*.js
+/test-section1/e2e/*.map
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# misc
+/test-section1/.sass-cache
+/test-section1/connect.lock
+/test-section1/coverage
+/test-section1/libpeerconnection.log
+/test-section1npm-debug.log
+/test-section1testem.log
+/test-section1/typings
+
+
+
+# System Files
+/test-section1/.DS_Store
+/test-section1/Thumbs.db
