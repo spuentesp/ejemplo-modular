@@ -7,6 +7,7 @@ import { HeaderModule } from 'test-header';
 import { TutorialComponent } from './tutorial/tutorial.component';
 import { WikiComponent } from './wiki/wiki.component';
 import { BlogComponent } from './blog/blog.component';
+import { WikiModule } from 'test-section1';
 
 @NgModule({
   declarations: [
@@ -18,6 +19,7 @@ import { BlogComponent } from './blog/blog.component';
   imports: [
     BrowserModule,
     HeaderModule,
+    WikiModule,
     AppRoutingModule
   ],
   providers: [],
