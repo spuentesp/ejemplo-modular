@@ -24,6 +24,7 @@
     "core-js": "^2.4.1",
     "rxjs": "^5.4.2",
     "test-header": "file:///C:\\Users\\Administrador\\test-header\\dist\\test-header-0.0.0.tgz",
+    "test-section1": "file:///C:\\Users\\Administrador\\test-app-modular\\test-section1\\dist\\test-section1-0.0.0.tgz",
     "zone.js": "^0.8.14"
   },
   "devDependencies": {
